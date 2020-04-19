@@ -35,6 +35,7 @@ public class MainActivity extends BaseActivity<MainPresenter> implements MainVie
     protected void initData() {
         //第一次提交
         //分支合并
+        //1.0.2合并
         textView = findViewById(R.id.text);
         textView.setOnClickListener(new View.OnClickListener() {
             @Override
