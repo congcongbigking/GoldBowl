@@ -36,6 +36,7 @@ public class MainActivity extends BaseActivity<MainPresenter> implements MainVie
         //第一次提交
         //分支合并
         //1.0.3
+
         textView = findViewById(R.id.text);
         textView.setOnClickListener(new View.OnClickListener() {
             @Override
