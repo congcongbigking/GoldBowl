@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoldBowl</string>
+    <string name="stro_tips">This permission is required so that users loan account statements can be securely downloaded and saved on users phone, and so that user can upload the right documents for a faster approval and disbursal of the loan. Also, this helps provide a very smooth seamless experience while using the app.</string>
+    <string name="sms_tips">Collect and monitor only financial transaction SMS which includes name of transacting party, a description of the transaction and transaction amount for the purpose of performing a credit risk assessment. This credit risk assessment enables faster and quicker loan disbursal. No personal SMS are accessed, read or collected.</string>
+    <string name="contacts_tips"><![CDATA[The NBFC loan process and guidelines mandates us to verify “references”. This feature enables us to do that & Why type in contact number when you can just choose from your contact book]]></string>
+    <string name="location_tips">User location helps to locate and verify the address which helps in making better credit risk decisions and fasten the Know Your Customer (KYC) process</string>
+    <string name="camera_tips">Camera access is required so that user can easily scan or capture identity documents, etc. and save time by allowing us to auto-fill the required data and helps in improving the user journey and experience.</string>
+    <string name="phone_state_tips">Collect and monitor specific information about your phone like your phone’s unique device identifier, user profile information as this information helps us in uniquely identifying a user, so that we can detect and prevent any unauthorized device from acting on your behalf. This enables us to detect fraud and manage risks better.</string>
+    <string name="go_on_tips"><![CDATA[By continuing you agree to our Terms of Service & Privacy Policy and receive communication from BusyAnt via SMS and E-mail]]></string>
+</resources>
